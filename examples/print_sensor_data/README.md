@@ -7,4 +7,11 @@ Check the **prj.conf** file to configure it according to your board, this exampl
   - Works with the internal RC oscillator due to this board doesn't have an external crystal. 
 - CONFIG_BOARD_ENABLE_DCDC=n
     - Works with the internal LDO regulator, doesn't have an external LC filter.
+ 
+## Pinout
+
+- SDA: P0.25
+- SCL: P0.26
+
+![image](https://github.com/Fernand0177/hdc1080_nRF_Connect_SDK/assets/68255428/24f3a1cc-4ae5-45dc-9848-d10fe1f2ed33)
 
