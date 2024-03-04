@@ -9,10 +9,5 @@ MK01-KIT Bluetooth evaluation board manufactured by Moko, which houses a Nordic 
 ![image](https://github.com/Fernand0177/hdc1080_nRF_Connect_SDK/assets/68255428/2884ecfa-9428-42bf-b6b5-68ffdd3badad)
 
 
-## Pinout
 
-- SDA: P0.25
-- SCL: P0.26
-
-![image](https://github.com/Fernand0177/hdc1080_nRF_Connect_SDK/assets/68255428/24f3a1cc-4ae5-45dc-9848-d10fe1f2ed33)
 
