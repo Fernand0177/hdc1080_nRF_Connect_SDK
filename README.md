@@ -8,6 +8,11 @@ MK01-KIT Bluetooth evaluation board manufactured by Moko, which houses a Nordic 
 
 ![image](https://github.com/Fernand0177/hdc1080_nRF_Connect_SDK/assets/68255428/2884ecfa-9428-42bf-b6b5-68ffdd3badad)
 
+**HDC1080 sensor typical aplication**
+
+![image](https://github.com/Fernand0177/hdc1080_nRF_Connect_SDK/assets/68255428/b20820ce-2a53-4199-88ac-242f7a75a444)
+
+
 
 
 
