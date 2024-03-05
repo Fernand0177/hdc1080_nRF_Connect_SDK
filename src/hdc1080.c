@@ -5,9 +5,9 @@ const uint8_t REG_HDC1080_HUMIDITY          = 0x01;
 const uint8_t REG_HDC1080_CONFIGURATION     = 0x02;
 const uint8_t REG_HDC1080_MANUFACTURER_ID   = 0xFE;
 const uint8_t REG_HDC1080_DEVICE_ID         = 0xFF;
-const uint8_t REG_HDC1080_SERIAL_ID_FIRST   = 0xFB;
+const uint8_t REG_HDC1080_SERIAL_ID_FIRST   = 0xFD;
 const uint8_t REG_HDC1080_SERIAL_ID_MID     = 0xFC;
-const uint8_t REG_HDC1080_SERIAL_ID_LAST    = 0xFD;
+const uint8_t REG_HDC1080_SERIAL_ID_LAST    = 0xFB;
 
 const int DEFAULT_CONFIG               = 0x0000;
 
